@@ -1,4 +1,3 @@
-# TODO verificar qtd de args
 E_BADARGS=66
 E_NOSUCHPROCESS=67
 
